@@ -15,7 +15,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex5", "..\Ex5\Ex5.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex6", "..\Ex6\Ex6.csproj", "{A19BF4FC-63BC-46E5-87B7-006D31D30F5E}"
 EndProject
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex7", "..\Ex7\Ex7.csproj", "{8F589B57-9D4D-4354-9B1C-D8F083D81F76}"
+=======
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex7", "..\Ex7\Ex7.csproj", "{8F589B57-9D4D-4354-9B1C-D8F083D81F76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex8", "..\Ex8\Ex8.csproj", "{8D2F469D-2C9D-4DD2-AF18-B0C4F63423B1}"
+>>>>>>> Добавьте файлы проекта.
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +57,13 @@ Global
 		{8F589B57-9D4D-4354-9B1C-D8F083D81F76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F589B57-9D4D-4354-9B1C-D8F083D81F76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F589B57-9D4D-4354-9B1C-D8F083D81F76}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
+=======
+		{8D2F469D-2C9D-4DD2-AF18-B0C4F63423B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D2F469D-2C9D-4DD2-AF18-B0C4F63423B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D2F469D-2C9D-4DD2-AF18-B0C4F63423B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D2F469D-2C9D-4DD2-AF18-B0C4F63423B1}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> Добавьте файлы проекта.
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
