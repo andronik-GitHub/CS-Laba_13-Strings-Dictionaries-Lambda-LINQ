@@ -13,6 +13,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex4", "..\Ex4\Ex4.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex5", "..\Ex5\Ex5.csproj", "{F428EB1D-C635-4903-9324-C3D4AB7120A7}"
 EndProject
+<<<<<<< HEAD
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex6", "..\Ex6\Ex6.csproj", "{A19BF4FC-63BC-46E5-87B7-006D31D30F5E}"
+EndProject
+>>>>>>> Добавьте файлы проекта.
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +44,13 @@ Global
 		{F428EB1D-C635-4903-9324-C3D4AB7120A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F428EB1D-C635-4903-9324-C3D4AB7120A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F428EB1D-C635-4903-9324-C3D4AB7120A7}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
+=======
+		{A19BF4FC-63BC-46E5-87B7-006D31D30F5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A19BF4FC-63BC-46E5-87B7-006D31D30F5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A19BF4FC-63BC-46E5-87B7-006D31D30F5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A19BF4FC-63BC-46E5-87B7-006D31D30F5E}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> Добавьте файлы проекта.
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
