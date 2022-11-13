@@ -20,6 +20,7 @@ EndProject
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex7", "..\Ex7\Ex7.csproj", "{8F589B57-9D4D-4354-9B1C-D8F083D81F76}"
 =======
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex7", "..\Ex7\Ex7.csproj", "{8F589B57-9D4D-4354-9B1C-D8F083D81F76}"
@@ -40,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex9", "..\Ex9\Ex9.csproj", 
 <<<<<<< HEAD
 >>>>>>> Добавьте файлы проекта.
 =======
+=======
+>>>>>>> Добавьте файлы проекта.
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex7", "..\Ex7\Ex7.csproj", "{8F589B57-9D4D-4354-9B1C-D8F083D81F76}"
 =======
 >>>>>>> Добавьте файлы проекта.
@@ -50,15 +53,18 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex11", "..\Ex11\Ex11.csproj
 EndProject
 <<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex10", "..\Ex10\Ex10.csproj", "{E1E1C494-EADA-428F-AFAF-114FC39F65A0}"
->>>>>>> Добавьте файлы проекта.
-=======
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex10", "..\Ex10\Ex10.csproj", "{E1E1C494-EADA-428F-AFAF-114FC39F65A0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex11", "..\Ex11\Ex11.csproj", "{2953190C-CD02-4E66-98FF-F0F73D27B675}"
+<<<<<<< HEAD
 >>>>>>> Добавьте файлы проекта.
 =======
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex12", "..\Ex12\Ex12.csproj", "{771D8489-8B9D-4146-AA72-140091B7A6AA}"
+>>>>>>> Добавьте файлы проекта.
+=======
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex12", "..\Ex12\Ex12.csproj", "{771D8489-8B9D-4146-AA72-140091B7A6AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex13", "..\Ex13\Ex13.csproj", "{E4F816A5-052B-4B70-AFDF-BEDDFDF2E2BE}"
 >>>>>>> Добавьте файлы проекта.
 EndProject
 Global
@@ -100,7 +106,10 @@ Global
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> Добавьте файлы проекта.
 =======
 >>>>>>> Добавьте файлы проекта.
 =======
@@ -117,8 +126,11 @@ Global
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> Добавьте файлы проекта.
 =======
+=======
+>>>>>>> Добавьте файлы проекта.
 =======
 >>>>>>> Добавьте файлы проекта.
 =======
@@ -132,8 +144,11 @@ Global
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> Добавьте файлы проекта.
 =======
+=======
+>>>>>>> Добавьте файлы проекта.
 =======
 >>>>>>> Добавьте файлы проекта.
 =======
@@ -144,8 +159,11 @@ Global
 		{E1E1C494-EADA-428F-AFAF-114FC39F65A0}.Release|Any CPU.Build.0 = Release|Any CPU
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> Добавьте файлы проекта.
 =======
+=======
+>>>>>>> Добавьте файлы проекта.
 =======
 >>>>>>> Добавьте файлы проекта.
 		{2953190C-CD02-4E66-98FF-F0F73D27B675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -153,12 +171,22 @@ Global
 		{2953190C-CD02-4E66-98FF-F0F73D27B675}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2953190C-CD02-4E66-98FF-F0F73D27B675}.Release|Any CPU.Build.0 = Release|Any CPU
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> Добавьте файлы проекта.
 =======
+=======
+>>>>>>> Добавьте файлы проекта.
 		{771D8489-8B9D-4146-AA72-140091B7A6AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{771D8489-8B9D-4146-AA72-140091B7A6AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{771D8489-8B9D-4146-AA72-140091B7A6AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{771D8489-8B9D-4146-AA72-140091B7A6AA}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
+>>>>>>> Добавьте файлы проекта.
+=======
+		{E4F816A5-052B-4B70-AFDF-BEDDFDF2E2BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4F816A5-052B-4B70-AFDF-BEDDFDF2E2BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4F816A5-052B-4B70-AFDF-BEDDFDF2E2BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4F816A5-052B-4B70-AFDF-BEDDFDF2E2BE}.Release|Any CPU.Build.0 = Release|Any CPU
 >>>>>>> Добавьте файлы проекта.
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
